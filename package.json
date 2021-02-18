@@ -32,7 +32,7 @@
     "express-basic-auth": "1.1.6",
     "final-form": "4.11.1",
     "moment": "2.24.0",
-    "next": "8.0.1",
+    "next": "9.3.2",
     "next-mui-helper": "1.2.0",
     "next-seo": "1.10.0",
     "now-env": "3.1.0",
